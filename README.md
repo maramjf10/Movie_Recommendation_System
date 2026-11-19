@@ -60,10 +60,15 @@ The two datasets are merged using the movie title to combine movie information w
 ### How the Recommendation Model Works
 
 **1 – Feature Extraction**
+
 **2 – Text Representation**
+
 **3 – Vectorization**
+
 **4 – Similarity Calculation**
+
 **5 – Movie Recommendation**
+
 
 ### Example Recommendation
 
